@@ -3,9 +3,6 @@ var animal = 'dog'
 function myAnimal() {
   return animal;
 }
-animal();
-
-
 
 function yourAnimal() {
   // How can we make sure that this function
