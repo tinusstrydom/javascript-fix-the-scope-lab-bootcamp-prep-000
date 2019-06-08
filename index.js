@@ -3,7 +3,7 @@ var animal = 'dog'
 function myAnimal() {
   return 'cat';
 }
-myAnimal();
+animal = myAnimal();
 
 
 
